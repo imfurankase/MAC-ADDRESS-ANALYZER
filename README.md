@@ -1,4 +1,4 @@
-# Practical_Assignment_2
+# Practical_Assignment_1
 This is my first assignment of CNG140 at METU(software engineering)
 MIDDLE EAST TECHNICAL UNIVERSITY, NORTHERN CYPRUS CAMPUS CNG140 C Programming – Programming Assignment 1
 
